@@ -11,6 +11,7 @@ Skills to enhance:
 
 To-do:
 * Weekend challenge
+* Redo all other challenges
 * Clean up previous repositories
 * CSS styling for previous projects
 * 
