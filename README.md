@@ -13,14 +13,14 @@ This is a study plan between 26 Jan and 2 Feb.
 * CSS
 * HTML
 
-## To Do
+### To Do
 
 * Weekend challenge
 * Redo all other challenges
 * Clean up previous repositories
 * CSS styling for previous projects
 
-## Thoughts
+### Thoughts
 
 * Consolidate the basic building blocks
 * Create something new (after consolidating the building blocks)
