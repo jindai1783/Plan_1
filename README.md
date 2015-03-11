@@ -1,23 +1,26 @@
-# Reading List
+# Plan 1
 
-Skills to enhance:
+## Introduction
+
+This is a study plan between 26 Jan and 2 Feb.
+
+### Look Into These
+
 * Javascript
 * JQuery
 * Ruby
 * Json
 * CSS
 * HTML
-* 
 
-To-do:
+## To Do
+
 * Weekend challenge
 * Redo all other challenges
 * Clean up previous repositories
 * CSS styling for previous projects
-* 
 
-Thoughts:
+## Thoughts
+
 * Consolidate the basic building blocks
-* Mix and create something new (after consolidating each building blocks)
-
-The list goes on...
+* Create something new (after consolidating the building blocks)
